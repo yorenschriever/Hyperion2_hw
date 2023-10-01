@@ -1,0 +1,15 @@
+Part                    Name                            JLC part nr
+
+esp32-s3                ESP32-S3-WROOM-1U-N16R8         C3013946
+
+ethernet MAC            W5500                           C32843
+magnetics               H1102NLT                        C18584
+eth connector x4        HC-RJ45-5JA-4-2                 C3000183
+
+pwm driver              PCA9685PW,118                   C2678753
+
+dmx driver              MAX3488ECSA+                    C1545109
+
+octows driver           SN74HCT245PWR                   C6779
+
+usb c connector         TYPEC-304-ACP16                 C2982555
