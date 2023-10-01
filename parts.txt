@@ -13,3 +13,5 @@ dmx driver              MAX3488ECSA+                    C1545109
 octows driver           SN74HCT245PWR                   C6779
 
 usb c connector         TYPEC-304-ACP16                 C2982555
+
+pwm fet                 NCV8401ADTRKG                   C904680
